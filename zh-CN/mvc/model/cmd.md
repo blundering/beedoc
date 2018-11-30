@@ -66,7 +66,7 @@ if err != nil {
 
 ```bash
 ./main orm sqlall -h
-Usage of orm command: syncdb:
+Usage of orm command: sqlall:
   -db="default": DataBase alias name
 ```
 
